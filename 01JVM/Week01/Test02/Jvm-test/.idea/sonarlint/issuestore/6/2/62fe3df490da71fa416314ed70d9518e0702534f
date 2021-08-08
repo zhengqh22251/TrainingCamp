@@ -1,0 +1,10 @@
+
+X	java:S125E"<This block of commented-out lines of code should be removed.(É›“Õ8Àé³®±/
+U
+java:S1874K"3Remove this use of "newInstance"; it is deprecated.(éß‡ûÿÿÿÿ8õìÊ­±/
+_
+java:S2259 "BA "NullPointerException" could be thrown; "data" is nullable here.(î‹ÂÚ8½Û¼­±/
+L
+java:S2093*"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8°‹§­±/
+Y
+java:S2589="7Remove this expression which always evaluates to "true"(ä±ÇÌøÿÿÿÿ8ê£©­±/
